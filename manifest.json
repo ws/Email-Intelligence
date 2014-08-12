@@ -13,8 +13,6 @@
       }
   ],
 
-  "options_page": "options.html",
-
   "web_accessible_resources" : [
     "providers/amazon-ses.png",
     "providers/bronto.png",
@@ -44,8 +42,7 @@
     "providers/salesforce.png",
     "providers/sendgrid.png",
     "providers/silverpop.png",
-    "providers/smtp.com.png",
-    "assets/css/theme.css"
+    "providers/smtp.com.png"
   ],
 
   "icons": {
